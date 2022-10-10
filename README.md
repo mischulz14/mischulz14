@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer from Vienna, <br>Currently in a bootcamp @Upleveled
+I am a Software Developer from Vienna, <br>Currently in a bootcamp @Upleveled!
 
 
 # 💻 Tech Stack:
