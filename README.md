@@ -1,3 +1,6 @@
+![DALL·E 2022-12-22 20 04 56 - male programmer with brown hair and black turtleneck, programming on his computer, you can only see his back, has a hot coffe mug on his side, drawn i](https://user-images.githubusercontent.com/96014669/209208545-41c7a749-17d3-40c3-870f-814545616639.png)
+**Hi there!**
+
 # 💫 About Me:
 - 🔭 I’m currently working on **Ava Services**, a web and mobile application to connect people with special needs to personal assistants and I love every second of it. <br><br>- 🌱 I’m learning **GraphQL, Storybook and Zod** <br><br>- ⚡ Fun fact: **I started as a Nutritional Scientist, but fell in love with coding**<br><br>- 💻 I love writing and reading easy-to-understand code. 
 
