@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Ava Services**, a web and mobile application to connect people with special needs to personal assistants and I love every second of it. <br><br>- 🌱 I’m currently learning **GraphQL, Storybook, Zod**<br><br>- ⚡ Fun fact: **I started as a Nutritional Scientist, but fell in love with coding**<br><br>- 💻 I love writing and reading easy-to-understand code. 
+- 🔭 I’m currently working on **Ava Services**, a web and mobile application to connect people with special needs to personal assistants and I love every second of it. <br><br>- 🌱 I’m learning **GraphQL, Storybook and Zod** <br><br>- ⚡ Fun fact: **I started as a Nutritional Scientist, but fell in love with coding**<br><br>- 💻 I love writing and reading easy-to-understand code. 
 
 
 # 💻 Tech Stack:
