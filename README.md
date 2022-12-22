@@ -1,4 +1,4 @@
-![DALL·E 2022-12-22 20 04 56 - male programmer with brown hair and black turtleneck, programming on his computer, you can only see his back, has a hot coffe mug on his side, drawn i](https://user-images.githubusercontent.com/96014669/209208545-41c7a749-17d3-40c3-870f-814545616639.png 20x20)
+![DALL·E 2022-12-22 20 04 56 - male programmer with brown hair and black turtleneck, programming on his computer, you can only see his back, has a hot coffe mug on his side, drawn i](https://user-images.githubusercontent.com/96014669/209208545-41c7a749-17d3-40c3-870f-814545616639.png, 20x20)
 **Hi there!**
 
 # 💫 About Me:
