@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/96014669/220397835-69f606b9-4c64-4a18-af1b-5003baea099e.png" style="width:600px; height:200px; object-fit:cover" align="center" />
+<img src="https://user-images.githubusercontent.com/96014669/220397835-69f606b9-4c64-4a18-af1b-5003baea099e.png" style="width:400px; height:300px; object-fit:cover" align="center" />
 
 # Hi there!
 
