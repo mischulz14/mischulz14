@@ -4,7 +4,7 @@
 
 
 # Hi there! 
-### And welcome to my ccc (cozy coding corner)
+### And welcome to my CCC (Cozy Coding Corner) ☕
 
  
 
