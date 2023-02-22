@@ -1,6 +1,6 @@
 
 <!-- ![Component 1programmer-pic(1)](https://user-images.githubusercontent.com/96014669/220648605-a5118b42-2a9a-4b31-8808-748ea8876855.png) -->
-![ezgif com-optimize](https://user-images.githubusercontent.com/96014669/220666261-44b5d3fb-b40c-4930-96ae-fd7e70814aed.gif)
+![ezgif com-optimize (1)](https://user-images.githubusercontent.com/96014669/220706172-144d9a2e-196a-4961-b74e-690561db0586.gif)
 
 
 # Hi there! 
