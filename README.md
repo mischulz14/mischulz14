@@ -1,4 +1,11 @@
-<img src="https://user-images.githubusercontent.com/96014669/220397835-69f606b9-4c64-4a18-af1b-5003baea099e.png" style="width:300px; height:300px; object-fit:cover" align="center" />
+<style>
+.cozy-image {
+  border-radius: 100%;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+</style>
+
+<img class="cozy-image" src="https://user-images.githubusercontent.com/96014669/220397835-69f606b9-4c64-4a18-af1b-5003baea099e.png" style="width:300px; height:300px; object-fit:cover" align="center" />
 
 # Hi there!
 
