@@ -1,5 +1,5 @@
 
-![Component 1programmer-pic](https://user-images.githubusercontent.com/96014669/220641519-5523d9db-8690-4ede-8898-47aba3380227.png)
+![Component 1programmer-pic(1)](https://user-images.githubusercontent.com/96014669/220648605-a5118b42-2a9a-4b31-8808-748ea8876855.png)
 
 
 # Hi there! 
