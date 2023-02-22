@@ -4,11 +4,11 @@
 
 
 # Hi there! 
-### And welcome to my CCC (Cozy Coding Corner) ☕
+### And welcome to my CCC (Cozy Coding Corner) ☕ ☕ ☕
 
  
 
-## My name is Michael and I am a Fullstack Developer from Vienna
+### My name is Michael and I am a Fullstack Developer from Vienna
 - 🔭 I’m currently working on **Ava Services**, a web and mobile application to connect people with special needs to personal assistants. <br><br>- 🌱 I’m learning **Java and  Python** <br><br>- ⚡ Fun fact: **My most productive coding sessions are triggered by Animal Crossing music :dog:**<br><br>- 💻 I love writing and reading easy-to-understand code. 
 <br><br>
 # 💻 This is my current Tech Stack:
