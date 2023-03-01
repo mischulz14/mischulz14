@@ -24,7 +24,7 @@
 <br><br>
 ## 📊 Wanna see some stats? Here you go:
 ![](https://readme-stats.clckblog.space/api?username=mischulz14&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=mischulz14&theme=radical&hide_border=false)<br/> -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=mischulz14&theme=radical&hide_border=false)<br/> 
 ![](https://readme-stats.clckblog.space/api/top-langs/?username=mischulz14&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
