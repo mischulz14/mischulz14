@@ -7,7 +7,7 @@
 ### And welcome to my CCC (Cozy Coding Corner) ☕ ☕ ☕ <br/><br/>
 
 ### My name is Michael and I am a Fullstack Developer from Vienna <br/><br/>
-- 👷‍♂️ I’m currently working as a fullstack developer on **Ava Services**, a web and mobile application to connect people with special needs to personal assistants. The project is not fully released yet, but you can check out what we are all about ➡️ [Here](https://ava.services/). <br><br> Here are some more interesting things about me: <br><br>- 📖 I’m learning: **Java, Python and game-development in JS** <br><br> - 🤡 Fun fact: **My most productive coding sessions are triggered by Animal Crossing music :dog:**<br><br>- 💻 Very important:  **I love writing and reading code with GOOD variable names and MEANINGFUL comments** 
+- 👷‍♂️ I’m currently working as a fullstack developer at **Ava Services**, a web and mobile application to connect people with special needs to personal assistants. The project is not fully released yet, but you can check out what we are all about ➡️ [Here](https://ava.services/). <br><br> Here are some more interesting things about me: <br><br>- 📖 I’m learning: **Java, Python and game-development in JS** <br><br> - 🤡 Fun fact: **My most productive coding sessions are triggered by Animal Crossing music :dog:**<br><br>- 💻 Very important:  **I love writing and reading code with GOOD variable names and MEANINGFUL comments** 
 <br><br>
 ## This is my current Tech Stack 🔽
 
