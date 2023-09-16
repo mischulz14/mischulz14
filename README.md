@@ -1,10 +1,11 @@
 
 <!-- ![Component 1programmer-pic(1)](https://user-images.githubusercontent.com/96014669/220648605-a5118b42-2a9a-4b31-8808-748ea8876855.png) -->
-![ezgif com-optimize (1)](https://user-images.githubusercontent.com/96014669/220706172-144d9a2e-196a-4961-b74e-690561db0586.gif)
-
+<!-- ![ezgif com-optimize (1)](https://user-images.githubusercontent.com/96014669/220706172-144d9a2e-196a-4961-b74e-690561db0586.gif) -->
 
 # Hi there! 
 ### And welcome to my CCC (Cozy Coding Corner) ☕ ☕ ☕ <br/><br/>
+
+![Under Water Programmer](https://github.com/mischulz14/mischulz14/assets/96014669/1497d696-c512-41cd-862a-9c79768dc8be)
 
 ### My name is Michael and I am a Fullstack Developer from Vienna <br/><br/>
 - 👷‍♂️ I’m currently working as a fullstack developer at **Ava Services**, a web and mobile application to connect people with special needs to personal assistants. The project is not fully released yet, but you can check out what we are all about ➡️ [Here](https://ava.services/). <br><br> Here are some more interesting things about me: <br><br>- 📖 I’m learning: **Java, Python and game-development in JS** <br><br> - 🤡 Fun fact: **My most productive coding sessions are triggered by Animal Crossing music :dog:**<br><br>- 💻 Very important:  **I love writing and reading code with GOOD variable names and MEANINGFUL comments** 
