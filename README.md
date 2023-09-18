@@ -6,11 +6,7 @@
 ### And welcome to my CCC (Cozy Coding Corner) ☕ ☕ ☕ <br/><br/>
 
 <!-- ![Under Water Programmer](https://github.com/mischulz14/mischulz14/assets/96014669/974f1525-b222-4edb-8adb-485799afebf1)-->
-![Under Water Programmertes2t](https://github.com/mischulz14/mischulz14/assets/96014669/2d3af966-785a-41b2-ad87-a0ccb5f5886f)
-
-
-
-
+![Under Water Programmertes2t](https://github.com/mischulz14/mischulz14/assets/96014669/2e70c6bb-5b0d-4d81-aa5a-0f8e91b96c89)
 
 
 ### My name is Michael and I am a Fullstack Developer from Vienna <br/><br/>
