@@ -6,7 +6,9 @@
 ### And welcome to my CCC (Cozy Coding Corner) ☕ ☕ ☕ 
 <!-- ![Under Water Programmer](https://github.com/mischulz14/mischulz14/assets/96014669/974f1525-b222-4edb-8adb-485799afebf1)-->
 <!--![Under Water Programmertes2t](https://github.com/mischulz14/mischulz14/assets/96014669/2e70c6bb-5b0d-4d81-aa5a-0f8e91b96c89)-->
-![Under Water Programmertes2t](https://github.com/mischulz14/mischulz14/assets/96014669/a301aa65-175d-43b5-af00-e2b8f9fe03cb)
+![Under Water Programmertes2t](https://github.com/mischulz14/mischulz14/assets/96014669/236496dd-4a68-44c0-9966-1d1aa8c0a8a9)
+
+
 
 ### My name is Michael and I am a Fullstack Developer from Vienna 
 ### You can check out my personal portfolio page [here](https://michaelschulz.netlify.app/) </br>
