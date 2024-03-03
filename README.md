@@ -12,7 +12,7 @@
 
 
 ### My name is Michael and I am a Fullstack Developer from Vienna 
-### You can check out my personal portfolio page [here](https://michaelschulz.dev) </br>
+
 ### About Me:
 - 👷‍♂️ I’m currently working as a fullstack developer at **Ava Services**, a web and mobile application to connect people with special needs to personal assistants. You can check out what we are all about ➡️ [Here](https://ava.services/). <br><br> Here are some more interesting things about me: <br><br>- 📖 I’m learning: **Python and ThreeJS** <br><br> - 🤡 Fun fact: **My most productive coding sessions are triggered by Animal Crossing music :dog:**
 <br><br>
