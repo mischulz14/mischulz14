@@ -14,7 +14,7 @@
 ### My name is Michael and I am a Fullstack Developer from Vienna 
 
 ### About Me:
-- 👷‍♂️ I’m currently working as a fullstack developer at **Realitiq**, a web and mobile application/editor to simplify and modernize scanning, organizing and editing real estate properties. You can check out what we are all about ➡️ [Here]([https://ava.services/](https://realitiq.com/en/)). <br><br> Here are some more interesting things about me: <br><br>- 📖 I’m learning: **Python and ThreeJS** <br><br> - 🤡 Fun fact: **My most productive coding sessions are triggered by Animal Crossing music :dog:**
+- 👷‍♂️ I’m currently working as a fullstack developer at **Realitiq**, a web and mobile application/editor to simplify and modernize scanning, organizing and editing real estate properties. You can check out what we are all about ➡️ [Here](https://realitiq.com/en/). I am currently only active on my [working github profile](https://github.com/michaelschulzr3al) <br><br> Here are some more interesting things about me: <br><br>- 📖 I’m learning: **Python and ThreeJS** <br><br> - 🤡 Fun fact: **My most productive coding sessions are triggered by Animal Crossing music :dog:**
 <br><br>
 ## This is my current Tech Stack 🔽
 ### Frontend 💻
